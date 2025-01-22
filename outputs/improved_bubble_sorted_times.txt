@@ -1,0 +1,138 @@
+Run 1: 1.3e-05 seconds
+Run 2: 1e-05 seconds
+Run 3: 9e-06 seconds
+Run 4: 8e-06 seconds
+Run 5: 8e-06 seconds
+Size: 100, Average time (excluding first run): 8.75e-06 seconds
+Run 1: 0.000702 seconds
+Run 2: 0.000709 seconds
+Run 3: 0.000728 seconds
+Run 4: 0.000556 seconds
+Run 5: 0.000493 seconds
+Size: 1000, Average time (excluding first run): 0.0006215 seconds
+Run 1: 0.028701 seconds
+Run 2: 0.029506 seconds
+Run 3: 0.027537 seconds
+Run 4: 0.027487 seconds
+Run 5: 0.029033 seconds
+Size: 10000, Average time (excluding first run): 0.0283907 seconds
+Run 1: 2.1e-05 seconds
+Run 2: 1.6e-05 seconds
+Run 3: 1.3e-05 seconds
+Run 4: 1.1e-05 seconds
+Run 5: 1.1e-05 seconds
+Size: 100, Average time (excluding first run): 1.275e-05 seconds
+Run 1: 0.000924 seconds
+Run 2: 0.00092 seconds
+Run 3: 0.000911 seconds
+Run 4: 0.000912 seconds
+Run 5: 0.000812 seconds
+Size: 1000, Average time (excluding first run): 0.00088875 seconds
+Run 1: 0.026803 seconds
+Run 2: 0.026676 seconds
+Run 3: 0.027008 seconds
+Run 4: 0.027225 seconds
+Run 5: 0.026826 seconds
+Size: 10000, Average time (excluding first run): 0.0269337 seconds
+Run 1: 9e-06 seconds
+Run 2: 7e-06 seconds
+Run 3: 4e-06 seconds
+Run 4: 4e-06 seconds
+Run 5: 4e-06 seconds
+Size: 100, Average time (excluding first run): 4.75e-06 seconds
+Run 1: 0.000345 seconds
+Run 2: 0.000348 seconds
+Run 3: 0.000343 seconds
+Run 4: 0.000341 seconds
+Run 5: 0.000342 seconds
+Size: 1000, Average time (excluding first run): 0.0003435 seconds
+Run 1: 0.027506 seconds
+Run 2: 0.02737 seconds
+Run 3: 0.027021 seconds
+Run 4: 0.02778 seconds
+Run 5: 0.028239 seconds
+Size: 10000, Average time (excluding first run): 0.0276025 seconds
+Run 1: 1.9e-05 seconds
+Run 2: 1.4e-05 seconds
+Run 3: 1.4e-05 seconds
+Run 4: 1.4e-05 seconds
+Run 5: 1.3e-05 seconds
+Size: 100, Average time (excluding first run): 1.375e-05 seconds
+Run 1: 0.000935 seconds
+Run 2: 0.000935 seconds
+Run 3: 0.000923 seconds
+Run 4: 0.000926 seconds
+Run 5: 0.000924 seconds
+Size: 1000, Average time (excluding first run): 0.000927 seconds
+Run 1: 0.026742 seconds
+Run 2: 0.02656 seconds
+Run 3: 0.026515 seconds
+Run 4: 0.026587 seconds
+Run 5: 0.026546 seconds
+Size: 10000, Average time (excluding first run): 0.026552 seconds
+Run 1: 2e-05 seconds
+Run 2: 1.6e-05 seconds
+Run 3: 1.4e-05 seconds
+Run 4: 1.2e-05 seconds
+Run 5: 1.2e-05 seconds
+Size: 100, Average time (excluding first run): 1.35e-05 seconds
+Run 1: 0.000809 seconds
+Run 2: 0.000918 seconds
+Run 3: 0.000912 seconds
+Run 4: 0.00091 seconds
+Run 5: 0.000942 seconds
+Size: 1000, Average time (excluding first run): 0.0009205 seconds
+Run 1: 0.026667 seconds
+Run 2: 0.026613 seconds
+Run 3: 0.026689 seconds
+Run 4: 0.026602 seconds
+Run 5: 0.0269 seconds
+Size: 10000, Average time (excluding first run): 0.026701 seconds
+Run 1: 1.8e-05 seconds
+Run 2: 1.6e-05 seconds
+Run 3: 1.4e-05 seconds
+Run 4: 1.3e-05 seconds
+Run 5: 1.2e-05 seconds
+Size: 100, Average time (excluding first run): 1.375e-05 seconds
+Run 1: 0.000966 seconds
+Run 2: 0.000932 seconds
+Run 3: 0.000931 seconds
+Run 4: 0.000916 seconds
+Run 5: 0.000813 seconds
+Size: 1000, Average time (excluding first run): 0.000898 seconds
+Run 1: 0.026392 seconds
+Run 2: 0.026535 seconds
+Run 3: 0.026475 seconds
+Run 4: 0.02682 seconds
+Run 5: 0.02672 seconds
+Size: 10000, Average time (excluding first run): 0.0266375 seconds
+Run 1: 4.65992 seconds
+Run 2: 4.67233 seconds
+Run 3: 4.65443 seconds
+Run 4: 4.67499 seconds
+Run 5: 4.67108 seconds
+Size: 100000, Average time (excluding first run): 4.66821 seconds
+Run 1: 2.1e-05 seconds
+Run 2: 1.6e-05 seconds
+Run 3: 1.5e-05 seconds
+Run 4: 1.4e-05 seconds
+Run 5: 1.2e-05 seconds
+Size: 100, Average time (excluding first run): 1.425e-05 seconds
+Run 1: 0.00077 seconds
+Run 2: 0.000853 seconds
+Run 3: 0.000914 seconds
+Run 4: 0.000914 seconds
+Run 5: 0.000909 seconds
+Size: 1000, Average time (excluding first run): 0.0008975 seconds
+Run 1: 0.026966 seconds
+Run 2: 0.026948 seconds
+Run 3: 0.026655 seconds
+Run 4: 0.026699 seconds
+Run 5: 0.027535 seconds
+Size: 10000, Average time (excluding first run): 0.0269593 seconds
+Run 1: 4.62485 seconds
+Run 2: 4.64187 seconds
+Run 3: 4.64262 seconds
+Run 4: 4.63558 seconds
+Run 5: 4.64994 seconds
+Size: 100000, Average time (excluding first run): 4.6425 seconds
