@@ -1,0 +1,56 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+sorting_benchmark
+a.out
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Build directories
+build/
+cmake-build-*/
+bin/
+out/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Python cache (if any scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
